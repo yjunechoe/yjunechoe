@@ -1,12 +1,16 @@
-I'm a Ph.D. Student studying psycholinguistics, and a data visualization hobbyist.
+### About
+
+I am a Ph.D. Student studying psycholinguistics and a data visualization hobbyist.
 
 ### Research
 
-You can see some of my projects on here or on [OSF](https://osf.io/72vrb/), and I keep an [updated list of works](https://yjunechoe.github.io/research.html) on my [personal website](https://yjunechoe.github.io).
+You can see some of my publically shared projects on [Github](https://github.com/yjunechoe), on [OSF](https://osf.io/72vrb/), and on [Twitter](https://twitter.com/yjunechoe).
+
+I keep a [full list of works](https://yjunechoe.github.io/research.html) on my [personal website](https://yjunechoe.github.io).
 
 ### Blog
 
-I'm a big fan of technical blogging and I write on topics in data visualization and the R programming language.
+I'm a big fan of technical blogging and I write on various topics in data visualization and the R programming language.
 
 | Top posts                                                                                                                             | Related Links                                                                                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
