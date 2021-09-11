@@ -2,7 +2,7 @@ I'm a Ph.D. Student studying psycholinguistics, and a data visualization hobbyis
 
 ### Research
 
-You can see some of my projects on here or on [OSF](https://osf.io/72vrb/), and I keep an [updated list of works](https://yjunechoe.github.io/research.html) on my [website](https://yjunechoe.github.io).
+You can see some of my projects on here or on [OSF](https://osf.io/72vrb/), and I keep an [updated list of works](https://yjunechoe.github.io/research.html) on my [personal website](https://yjunechoe.github.io).
 
 ### Blog
 
