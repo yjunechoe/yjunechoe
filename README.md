@@ -1,6 +1,8 @@
 ### About
 
-I am a Ph.D. Student studying psycholinguistics and a data visualization hobbyist.
+I am a Ph.D. Student studying psycholinguistics at the University of Pennsylvania.
+
+I'm also a data visualization hobbyist and I like playing around in R/ggplot and JS/D3.
 
 ### Research
 
