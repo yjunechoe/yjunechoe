@@ -6,7 +6,7 @@ I'm also a data visualization hobbyist and like to dabble in R/ggplot and JS/D3.
 
 ### Research
 
-You can see some of my publically shared projects on [Github](https://github.com/yjunechoe), on [OSF](https://osf.io/72vrb/).
+You can see some of my publically shared projects on [Github](https://github.com/yjunechoe) and [OSF](https://osf.io/72vrb/).
 
 I keep a [full list of works](https://yjunechoe.github.io/research.html) on my [personal website](https://yjunechoe.github.io).
 
