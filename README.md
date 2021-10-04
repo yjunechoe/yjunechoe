@@ -6,10 +6,10 @@ I'm also a data visualization hobbyist and like to dabble in R/ggplot and JS/D3 
 
 ### Packages and softwares 📦
 
-- [{ggtrace}](https://github.com/yjunechoe/ggtrace)
-- [{penngradlings}](https://github.com/yjunechoe/penngradlings)
-- [{junebug}](https://github.com/yjunechoe/junebug)
-- [SnowGlobe](https://github.com/yjunechoe/Snowglobe)
+- [{ggtrace}](https://github.com/yjunechoe/ggtrace) - for programmatically debugging ggproto methods
+- [{penngradlings}](https://github.com/yjunechoe/penngradlings) - themes, fonts, ggplot2 extensions for UPenn graduate linguistics society
+- [{junebug}](https://github.com/yjunechoe/junebug) - an assortment of functions for personal use
+- [SnowGlobe](https://github.com/yjunechoe/Snowglobe) - a citation tool for snowball searching in meta-analysis research
 
 ### Research 🔬
 
