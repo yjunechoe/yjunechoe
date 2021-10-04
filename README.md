@@ -4,15 +4,23 @@ I am a Ph.D. Student in Linguistics at the University of Pennsylvania, studying 
 
 I'm also a data visualization hobbyist and like to dabble in R/ggplot and JS/D3 in my free time. I share some of my projects on [Twitter](https://twitter.com/yjunechoe).
 
-### R Packages 📦
+### Packages and softwares 📦
 
 - [{ggtrace}](https://github.com/yjunechoe/ggtrace)
 - [{penngradlings}](https://github.com/yjunechoe/penngradlings)
 - [{junebug}](https://github.com/yjunechoe/junebug)
+- [SnowGlobe](https://github.com/yjunechoe/Snowglobe)
 
 ### Research 🔬
 
 You can see some of my publically shared projects on [Github](https://github.com/yjunechoe) and [OSF](https://osf.io/72vrb/). I keep a [full list of works](https://yjunechoe.github.io/research.html) on my [personal website](https://yjunechoe.github.io).
+
+Some topics I'm currently exploring:
+
+- Category mapping in the acquisition of novel words
+- Interface between prosody and information structure
+- Reanalysis in the processing of sentences with local syntactic ambiguity
+- Methodological tools for meta-analysis research in the clinical sciences
 
 ### Blog 📝
 
