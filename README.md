@@ -33,3 +33,6 @@ I'm a big fan of technical blogging and I write on various topics in data visual
 | [Collapse repetitive piping with reduce()](https://yjunechoe.github.io/posts/2020-12-13-collapse-repetitive-piping-with-reduce/) |                                                                                                                                                                                                   |
 | [The Correlation Parameter in Mixed Effects Models](https://yjunechoe.github.io/posts/2020-06-07-correlation-parameter-mem/)     | First published on [RPubs](https://rpubs.com/yjunechoe/correlationsLMEM)                                                                                                                          |
 | [Plotting treemaps with {treemap} and {ggplot2}](https://yjunechoe.github.io/posts/2020-06-30-treemap-with-ggplot/)              |                                                                                                                                                                                                   |
+### Github stats
+
+![June's Github stats](https://github-readme-stats.vercel.app/api?username=yjunechoe&show_icons=true)
