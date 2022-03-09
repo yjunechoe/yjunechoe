@@ -19,7 +19,7 @@ Some topics I'm currently exploring:
 
 - Category mapping in the acquisition of novel words
 - Interface between prosody and information structure
-- Reanalysis in the processing of sentences with local syntactic ambiguity
+- On-line processing of garden-path sentences
 - Methodological tools for meta-analysis research in the clinical sciences
 
 ### Blog 📝
