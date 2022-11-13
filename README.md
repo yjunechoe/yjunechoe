@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I am a second year Ph.D. Student in Linguistics at the University of Pennsylvania, studying various topics in psycholinguistics and acquisition.
+I am a third year Ph.D. Student in Linguistics at the University of Pennsylvania, studying various topics in psycholinguistics and acquisition.
 
 I'm also a data visualization hobbyist and like to dabble in R/ggplot and JS/D3 in my free time. I sometimes share my projects on [Twitter](https://twitter.com/yjunechoe).
 
