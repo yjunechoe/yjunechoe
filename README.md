@@ -39,3 +39,5 @@ I'm a big fan of technical blogging and I write on various topics in data visual
 ### Github stats
 
 ![June's Github stats](https://github-readme-stats.vercel.app/api?username=yjunechoe&show_icons=true)
+
+<a rel="me" href="https://fosstodon.org/@yjunechoe"></a>
