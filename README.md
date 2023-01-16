@@ -36,8 +36,5 @@ I'm a big fan of technical blogging and I write on various topics in data visual
 | [Demystifying stat_ layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)         | [RWeekly highlights podcast #8](https://rweekly.fireside.fm/8?t=251)                                                                                                                              |
 | [The Correlation Parameter in Mixed Effects Models](https://yjunechoe.github.io/posts/2020-06-07-correlation-parameter-mem/)     | First published on [RPubs](https://rpubs.com/yjunechoe/correlationsLMEM)                                                                                                                          |
 
-### Github stats
-
-![June's Github stats](https://github-readme-stats.vercel.app/api?username=yjunechoe&show_icons=true)
 
 <a rel="me" href="https://fosstodon.org/@yjunechoe"></a>
