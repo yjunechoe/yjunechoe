@@ -6,7 +6,7 @@ I'm also a data visualization hobbyist and like to dabble in R/ggplot and JS/D3 
 
 ### Packages and softwares 📦
 
-- [{ggtrace}](https://github.com/yjunechoe/ggtrace) - programmatically inspect, debug, and manipulate ggplot internals
+- [{ggtrace}](https://github.com/yjunechoe/ggtrace) ([talk](https://www.rstudio.com/conference/2022/talks/cracking-open-ggplot-internals-ggtrace/), [paper](https://yjunechoe.github.io/static/papers/Choe_2022_SublayerGG.pdf)) - programmatically inspect, debug, and manipulate ggplot internals
 - [{ggcolormeter}](https://github.com/yjunechoe/ggcolormeter) - ggplot2 guides extension for dashboard-style color/fill legend
 - [{penngradlings}](https://github.com/yjunechoe/penngradlings) - themes, utilities, and ggplot2 extensions for UPenn graduate linguistics society
 - [{junebug}](https://github.com/yjunechoe/junebug) - an assortment of functions for personal use
