@@ -7,7 +7,7 @@ I'm also a data visualization hobbyist and like to dabble in R/ggplot and JS/D3 
 ### Packages and softwares 📦
 
 - [{ggtrace}](https://github.com/yjunechoe/ggtrace) ([talk](https://www.rstudio.com/conference/2022/talks/cracking-open-ggplot-internals-ggtrace/), [paper](https://yjunechoe.github.io/static/papers/Choe_2022_SublayerGG.pdf)) - programmatically inspect, debug, and manipulate ggplot internals
-- [{jlmerclusterperm}](https://github.com/yjunechoe/jlmerclusterperm) - A Julia-based implementation of cluster-based permutation tests for time series data using mixed effects models.
+- [{jlmerclusterperm}](https://github.com/yjunechoe/jlmerclusterperm) - R package for a Julia-based implementation of cluster permutation analysis for time series data using mixed effects models.
 - [{ggcolormeter}](https://github.com/yjunechoe/ggcolormeter) - ggplot2 guides extension for dashboard-style color/fill legend
 - [{penngradlings}](https://github.com/yjunechoe/penngradlings) - themes, utilities, and ggplot2 extensions for UPenn graduate linguistics society
 - [{junebug}](https://github.com/yjunechoe/junebug) - an assortment of functions for personal use
