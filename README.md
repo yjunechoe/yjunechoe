@@ -1,8 +1,8 @@
 ### Hi! 👋
 
-I am a Ph.D. candidate in Linguistics at the University of Pennsylvania, studying various topics in psycholinguistics and acquisition.
+I am a Ph.D. candidate in Linguistics at the University of Pennsylvania, studying psycholinguistics and language acquisition.
 
-I'm also a data visualization hobbyist and like to dabble in R/ggplot and JS/D3 in my free time. I sometimes share my projects on [Twitter](https://twitter.com/yjunechoe).
+I'm also a data visualization hobbyist and I develop software for statistical computing and graphics in my free timme.
 
 ### Packages and softwares 📦
 
