@@ -2,7 +2,7 @@
 
 I am a Ph.D. candidate in Linguistics at the University of Pennsylvania, studying psycholinguistics and language acquisition.
 
-I'm also a data visualization hobbyist and I develop software for statistical computing and graphics in my free timme.
+I'm also a data visualization hobbyist and develop open source software for statistical computing and graphics in my free time.
 
 ### Packages and softwares 📦
 
@@ -19,7 +19,7 @@ You can see some of my publically shared projects on [Github](https://github.com
 
 Some topics I'm currently exploring:
 
-- Pragmatic reasoning in word learning
+- Experimental pragmatics (categories, word learning)
 - Prosody-information structure interface
 - Parsing and real-time sentence comprehension
 - Methodological tools for meta-analysis research
