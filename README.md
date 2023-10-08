@@ -1,8 +1,8 @@
 ### Hi! 👋
 
-I am a Ph.D. candidate in Linguistics at the University of Pennsylvania, studying psycholinguistics and language acquisition.
+I am a Ph.D. candidate in Linguistics at the University of Pennsylvania, studying psycholinguistics (~ experimental pragmatics) and language acquisition (~ word learning).
 
-I'm also a data visualization hobbyist and develop open source software for statistical computing and graphics in my free time.
+I'm also an R enthusiast and data visualization hobbyist. Outside of linguistics research, I develop open source software for statistical computing and graphics.
 
 ### Packages and softwares 📦
 
@@ -17,9 +17,9 @@ I'm also a data visualization hobbyist and develop open source software for stat
 
 You can see some of my publically shared projects on [Github](https://github.com/yjunechoe) and [OSF](https://osf.io/72vrb/). I keep a [full list of works](https://yjunechoe.github.io/research.html) on my [personal website](https://yjunechoe.github.io).
 
-Some topics I'm currently exploring:
+Some research topics from past and present:
 
-- Experimental pragmatics (categories, word learning)
+- Experimental pragmatics (scalar-_esque_ implicature, categories, word learning)
 - Prosody-information structure interface
 - Parsing and real-time sentence comprehension
 - Methodological tools for meta-analysis research
