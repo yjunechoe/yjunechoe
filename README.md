@@ -2,16 +2,23 @@
 
 I am a Ph.D. candidate in Linguistics at the University of Pennsylvania, studying psycholinguistics (~ experimental pragmatics) and language acquisition (~ word learning).
 
-I'm also an R enthusiast and data visualization hobbyist. Outside of linguistics research, I develop open source software for statistical computing and graphics.
+I'm also an R enthusiast and data visualization hobbyist. Outside of linguistics research, I develop open source software for statistical computing and graphics, data quality assurance, and (interfaces to) data APIs.
 
 ### Packages and softwares 📦
 
-- [{ggtrace}](https://github.com/yjunechoe/ggtrace) ([talk](https://www.rstudio.com/conference/2022/talks/cracking-open-ggplot-internals-ggtrace/), [paper](https://yjunechoe.github.io/static/papers/Choe_2022_SublayerGG.pdf)) - programmatically inspect, debug, and manipulate ggplot internals
-- [{jlmerclusterperm}](https://github.com/yjunechoe/jlmerclusterperm) - R package for a Julia-based implementation of cluster permutation analysis using mixed effects models.
+I am the creator of:
+
+- [{ggtrace}](https://github.com/yjunechoe/ggtrace) - programmatically inspect, debug, and manipulate ggplot internals ([paper](https://yjunechoe.github.io/static/papers/Choe_2022_SublayerGG.pdf))
+- [{jlmerclusterperm}](https://github.com/yjunechoe/jlmerclusterperm) - Julia-based implementation of cluster permutation analysis using mixed effects models
 - [{ggcolormeter}](https://github.com/yjunechoe/ggcolormeter) - ggplot2 guides extension for dashboard-style color/fill legend
 - [{penngradlings}](https://github.com/yjunechoe/penngradlings) - themes, utilities, and ggplot2 extensions for UPenn graduate linguistics society
 - [{junebug}](https://github.com/yjunechoe/junebug) - an assortment of functions for personal use
-- [SnowGlobe](https://github.com/yjunechoe/Snowglobe) - a Shiny app for snowball searching for meta-analysis research (stale - I now contribute to [{openalexR}](https://github.com/ropensci/openalexR))
+- [SnowGlobe](https://github.com/yjunechoe/Snowglobe) - a Shiny app for snowball searching for meta-analysis research
+
+I am a collaborator on:
+
+- [{pointblank}](https://github.com/rstudio/pointblank) - data quality assessment and metadata reporting
+- [{openalexR}](https://github.com/ropensci/openalexR) - an R interface to the OpenAlex scholarly database API
 
 ### Research 🔬
 
@@ -19,10 +26,10 @@ You can see some of my publically shared projects on [Github](https://github.com
 
 Some research topics from past and present:
 
-- Experimental pragmatics (scalar-_esque_ implicature, categories, word learning)
+- Experimental pragmatics
+- Distributional (word) learning
 - Prosody-information structure interface
 - Parsing and real-time sentence comprehension
-- Methodological tools for meta-analysis research
 
 ### Blog 📝
 
